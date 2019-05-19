@@ -1,4 +1,4 @@
-// excercise 1
+/ excercise 1
 console.log("Hello");
 console.log("hej");
 console.log("shlonak");
